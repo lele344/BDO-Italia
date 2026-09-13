@@ -31,12 +31,14 @@ Dalla **root del gioco** devi spostarti nella cartella ads e copiare il file che
 ```text
 📂 Black Desert Online
 └── 📂 ads
-    └── languagedata_de.loc
+    └── languagedata_en.loc
+
+Se vuoi sostituire la traduzione per una lingua differente, ad esempio per il tedesco basta che rinomini il file languagedata_en.loc scaricato in languagedata_de.loc
 ```
 
 ## ▶️ Avvio
 1. Avvia il gioco normalmente da Steam.  
-2. Vai nelle impostazioni e setta la lingua in tedesco 
+2. Vai nelle impostazioni e setta la lingua in inglese o nella lingua del suffisso di languagedata_*.loc se l'hai rinominato. 
 
 ---
 
